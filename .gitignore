@@ -30,3 +30,4 @@ nbdist/
 ### 过滤掉日志文件
 logs/*
 grail/*
+*.DS_Store
