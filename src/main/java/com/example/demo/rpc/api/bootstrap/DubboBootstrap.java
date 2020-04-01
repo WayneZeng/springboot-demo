@@ -17,6 +17,7 @@
 package com.example.demo.rpc.api.bootstrap;
 
 //import com.example.demo.rpc.config.utils.ReferenceConfigCache;
+import com.example.demo.rpc.model.ApplicationModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
